@@ -26,4 +26,4 @@ A simple solution is to provide a mechanism/platform which connects the aid prov
 Contributors names and contact info
 
 ex. Ayush Sharma
-ex. [@sharmaayush2408](https://www.linkedin.com/in/sharmaayush2408/)
+ex. https://www.linkedin.com/in/sharmaayush2408/

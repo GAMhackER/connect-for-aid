@@ -1,3 +1,9 @@
+# Disclaimer (For evaluators)
+
+I had submitted project synopsis prior to my project completion in which I had mentioned different methodology and technologies used. However, while completing the project I cam across some challenges and changed my methodology. I did convey this with the support team but got a response that I cannot edit the synopsis once submitted. 
+
+Kindly, refer below for the final project statement and solution and the technologies used.
+
 # Project Title
 
 Connect for Aid.
@@ -18,6 +24,11 @@ A simple solution is to provide a mechanism/platform which connects the aid prov
 * A typeform account.
 * An automate.io account.
 * Sender/Receiver details.
+
+### Technologies (Azure)
+
+* Static Web Apps
+* Visual Studio Code
 
 ```
 

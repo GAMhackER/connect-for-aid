@@ -1,6 +1,6 @@
 # Disclaimer (For evaluators)
 
-I had submitted project synopsis prior to my project completion in which I had mentioned different methodology and technologies used. However, while completing the project I cam across some challenges and changed my methodology. I did convey this with the support team but got a response that I cannot edit the synopsis once submitted. 
+I had submitted project synopsis prior to my project completion in which I had mentioned different methodology and technologies used. However, while completing the project I came across some challenges and changed my methodology. I did convey this with the support team but got a response that I cannot edit the synopsis once submitted. 
 
 Kindly, refer below for the final project statement and solution and the technologies used.
 

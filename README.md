@@ -30,6 +30,7 @@ The code is written in HTML using Visual Studio code.
 ### Technologies (Azure)
 
 * Static Web Apps
+* App Service
 * Visual Studio Code
 
 ```

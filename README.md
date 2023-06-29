@@ -8,7 +8,7 @@ Kindly, refer below for the final project statement and solution and the technol
 
 Connect for Aid.
 
-# Website
+# Website (Inactive)
 https://ashy-bush-03088cb0f.1.azurestaticapps.net
 
 ## Description
